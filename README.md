@@ -13,7 +13,6 @@
 - **Backend:** Django (Python)
 - **Database:** SQLite
 - **Frontend:** HTML, CSS, JavaScript (Django Templates)
-- **Real-Time Communication:** WebSocket (Django Channels)
 
 ## Installation:
 1. Clone the repository:
