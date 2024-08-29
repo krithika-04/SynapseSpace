@@ -1,0 +1,8 @@
+{% extends 'Main.html'%}
+{%block content%}
+{%if page == 'login' %}
+{%include 'base/Login.html'%}
+{%else%}
+{%include 'base/SignUp.html'%}
+{% endif %}
+{%endblock content%}
